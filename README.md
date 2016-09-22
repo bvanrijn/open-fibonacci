@@ -9,4 +9,4 @@
 | -             | Flow control   |
 | -             | Return values  |
 
-Want to help change the world? [Learn how](open-fibonacci/.github/CONTRIBUTING.md ).
+Want to help change the world? [Learn how](https://github.com/bvanrijn/open-fibonacci/blob/master/.github/CONTRIBUTING.md).
