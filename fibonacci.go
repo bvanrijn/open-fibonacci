@@ -10,5 +10,5 @@ func fibonacci(n int) int {
     return fibonacci(n-2) + fibonacci(n-1)
 }
 func main() {
-    fmt.Println(fibonacci(i))
+    fmt.Println(fibonacci(35))
 }
