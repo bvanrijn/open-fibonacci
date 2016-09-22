@@ -25,7 +25,7 @@ Before you continue, make sure that:
 1. You are submitting an implementation that does not exist in Open Fibonacci yet
 2. Your program is bug-free
 
-    mkdir -p src/<em>first letter</em>/<em>full language name</em>
+    mkdir -p src/first-letter/full-language-name
 
 So if your language is called `acme`, you would execute
 
@@ -49,5 +49,5 @@ Sure. Just open an issue.
 
 ---
 
-Thank you so much for contributing.
+Thank you so much for contributing.  
 Barend
