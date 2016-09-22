@@ -1,6 +1,6 @@
 # Open Fibonacci
 
-*Open Fibonacci* is a better *Hello, World!*.
+`Open Fibonacci` is a better `Hello, World!`
 
 | Hello, World! | Open Fibonacci |
 |---------------|----------------|
@@ -8,3 +8,5 @@
 | -             | Functions      |
 | -             | Flow control   |
 | -             | Return values  |
+
+Want to help change the world? [Learn how](open-fibonacci/.github/CONTRIBUTING.md ).
