@@ -49,5 +49,5 @@ Sure. Just open an issue.
 
 ---
 
-Thank you so much for contributing.  
+Thank you so much for contributing,  
 Barend
