@@ -22,6 +22,7 @@ a really long time, you may choose a lower value
 ## Submit a new program
 
 Before you continue, make sure that:
+
 1. You are submitting an implementation that does not exist in Open Fibonacci yet
 2. Your program is bug-free
 
