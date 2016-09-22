@@ -15,7 +15,7 @@ Your program `fibonacci.[extension]` has to do the following:
 1. Define a function `fibonacci` that takes an integer `n` as input
 2. If `n` is smaller than `2`, return `n`
 3. Else return the sum of `fibonacci(n-2)` and `fibonacci(n-1)`
-4. Output (to standard output) the value of `fibonacci(35)`. If this takes
+4. Print (to standard output) the value of `fibonacci(35)`. If this takes
 a really long time, you may choose a lower value
 5. Exit with a status code of `0`, indicating success
 
@@ -49,5 +49,5 @@ Sure. Just open an issue.
 
 ---
 
-Thank you so much for contributing.
+Thank you so much for contributing.  
 Barend
