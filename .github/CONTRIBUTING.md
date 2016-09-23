@@ -15,17 +15,22 @@ Your program `fibonacci.[extension]` has to do the following:
 1. Define a function `fibonacci` that takes an integer `n` as input
 2. If `n` is smaller than `2`, return `n`
 3. Else return the sum of `fibonacci(n-2)` and `fibonacci(n-1)`
-4. Output (to standard output) the value of `fibonacci(35)`. If this takes
+4. Print (to standard output) the value of `fibonacci(35)`. If this takes
 a really long time, you may choose a lower value
 5. Exit with a status code of `0`, indicating success
 
 ## Submit a new program
 
 Before you continue, make sure that:
+
 1. You are submitting an implementation that does not exist in Open Fibonacci yet
 2. Your program is bug-free
 
+<<<<<<< HEAD
     mkdir -p src/first-letter/full-language-name
+=======
+    mkdir -p src/first letter/full language name
+>>>>>>> ddcf2b418e4996717189592cdb25e6e41b53e7e8
 
 So if your language is called `acme`, you would execute
 
@@ -49,5 +54,9 @@ Sure. Just open an issue.
 
 ---
 
+<<<<<<< HEAD
 Thank you so much for contributing.  
+=======
+Thank you so much for contributing,  
+>>>>>>> ddcf2b418e4996717189592cdb25e6e41b53e7e8
 Barend
